@@ -31,3 +31,8 @@
 - 在 LLM 工具（如 Google AI Studio），匯入 規格書與要建構的判決書.md，要 LLM 生成
 	- prompt 範例:請根據判決書 meta data 規格書，針對附件的判決書，產生 通用 Meta data 與 內容 meta data 
 - 手動將 json 複製出來存檔
+
+
+
+# 參考
+- 判決書的 meta data 也可與 [law_meta](https://github.com/wuulong/law_meta) 接合
