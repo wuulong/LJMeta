@@ -3,9 +3,10 @@
 
 # Spec
 - [判決書 Meta Data 規格書](https://github.com/wuulong/LJMeta/blob/main/%E5%88%A4%E6%B1%BA%E6%9B%B8%20Meta%20Data%20%E8%A6%8F%E6%A0%BC%E6%9B%B8.md)
+	- 此判決書規格為 LLM 生成
 
 # 一般
-- 構思：[AIQA-法律判決書](https://github.com/wuulong/LJMeta/blob/main/AIQA-%E6%B3%95%E5%BE%8B%E5%88%A4%E6%B1%BA%E6%9B%B8.md)
+- 與 LLM 協力構思：[AIQA-法律判決書](https://github.com/wuulong/LJMeta/blob/main/AIQA-%E6%B3%95%E5%BE%8B%E5%88%A4%E6%B1%BA%E6%9B%B8.md)
 
 # 版本歷史
 - V0.0.1(目前)：
